@@ -86,7 +86,8 @@ A Análise Exploratória de Dados (EDA) revelou que, apesar do crescimento no vo
 
 - **Conjunto de dados utilizado na análise**: `DadosSuperstore2-230321-143628.xlsx`
 - **Notebook de desenvolvimento com explicação técnica**: `superstore-modelo-de-mitigacao-de-prejuizos.ipynb`
-- **Apresentação executiva**: `superstore-modelo-de-mitigacao-de-prejuizos.pdf`
+- **Apresentação executiva**: `superstore-apresentacao-executiva.pdf`
+- **Arquivo de requisitos**: `requirements.txt` (lista de bibliotecas e dependências necessárias para executar o projeto)
 
 ## Como Utilizar
 
