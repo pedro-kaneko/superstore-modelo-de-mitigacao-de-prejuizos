@@ -1,5 +1,9 @@
 # Superstore Modelo de Mitigação de Prejuízos
 
+Abra no Colab para visualizar os gráficos renderizados.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pedro-kaneko/superstore-modelo-de-mitigacao-de-prejuizos/blob/main/superstore_modelo_de_mitigacao_de_prejuizos.ipynb)
+
 ![Imagem de Capa](cover.png)
 
 ## Introdução
